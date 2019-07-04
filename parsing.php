@@ -16,11 +16,11 @@
   	<table class="table table-dark">
 	  <thead>
 	    <tr>
-	      <th scope="col">ID Hotel</th>
-	      <th scope="col">Nom Hotel</th>
-	      <th scope="col">Region</th>
+	      <th scope="col">ID Hôtel</th>
+	      <th scope="col">Nom Hôtel</th>
+	      <th scope="col">Région</th>
 	      <th scope="col">Emails</th>
-          <th scope="col">Telephone</th>
+          <th scope="col">Téléphone</th>
 	    </tr>
 	  </thead>
 	  <tbody>
